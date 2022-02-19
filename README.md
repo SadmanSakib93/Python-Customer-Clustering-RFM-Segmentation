@@ -15,3 +15,10 @@ There are three main tables in this data source. The data tables are extracted b
 
 - Country Mapping: This table can be used to map the country ID to a given country
   ![image](https://user-images.githubusercontent.com/27827295/154782214-7658518a-ff34-43bb-af17-9ae06bb4d55f.png)
+  
+## Questions/Tasks:
+1) Find the buyers who are in the top 5 percentile?
+2) Conduct a cohort analysis of the customers to understand how much each customer cohort contributes to auctions and which cohort contributes the most.
+3) Identify the sources from where our HIGH VALUE buyers are coming (geographically and by source) for the auctions that closed within a specific date range (i.e., July and August 2021)
+
+The python programs to solve the aforementioned analytics problems can be found in the Code folder.
