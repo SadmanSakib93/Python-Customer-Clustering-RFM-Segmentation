@@ -14,4 +14,4 @@ There are three main tables in this data source. The data tables are extracted b
   ![image](https://user-images.githubusercontent.com/27827295/154782167-9b31f358-761b-45ee-a716-ae4adeae5e8c.png)
 
 - Country Mapping: This table can be used to map the country ID to a given country
-  ![image](https://user-images.githubusercontent.com/27827295/154782188-5b8bfc76-3552-4bab-972a-24dedad9e729.png)
+  ![image](https://user-images.githubusercontent.com/27827295/154782214-7658518a-ff34-43bb-af17-9ae06bb4d55f.png)
