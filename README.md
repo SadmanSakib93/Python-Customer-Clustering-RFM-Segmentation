@@ -21,4 +21,4 @@ There are three main tables in this data source. The data tables are extracted b
 2) Conduct a cohort analysis of the customers to understand how much each customer cohort contributes to auctions and which cohort contributes the most.
 3) Identify the sources from where our HIGH VALUE buyers are coming (geographically and by source) for the auctions that closed within a specific date range (i.e., July and August 2021)
 
-The python programs to solve the aforementioned analytics problems can be found in the Code folder.
+The python programs to solve the aforementioned analytics problems can be found in the Code folder. The task/question 3 is solved using Unsupervised K-Mean clustering and RFM analysis of the customer data.
